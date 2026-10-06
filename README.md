@@ -18,11 +18,11 @@ The final dashboard brings these analyses together with an interactive store-loc
 
 ## Key Insights
 
-- Analyzed monthly revenue trends to identify changes in sales performance over time
-- Examined transaction volume by day of the week and hour of the day
-- Compared transaction volume and revenue across individual products
-- Analyzed transaction volume across product categories
-- Added an interactive store-location slicer to compare performance across locations
+- June generated the highest monthly revenue at approximately $166.5K, while February recorded the lowest at approximately $76.1K.
+- Friday had the highest transaction volume, while Saturday had the lowest.
+- Transaction volume was concentrated in the morning, with 8 AM–10 AM representing the busiest hours.
+- Coffee was the highest-volume product category, followed by tea and bakery products.
+- Brewed Chai Tea had the highest transaction volume among individual products, while Barista Espresso generated the highest revenue.
 
 ## Tools & Skills
 
